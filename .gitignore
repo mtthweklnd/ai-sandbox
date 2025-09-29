@@ -1,0 +1,4 @@
+*.sqlite
+database.sqlite
+*azurite*.json
+.Renviron
